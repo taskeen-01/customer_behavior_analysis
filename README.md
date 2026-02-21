@@ -17,4 +17,4 @@ Cleaned and transformed raw data using Python (Pandas), performed business-focus
 Python | SQL | PostgreSQL | Power BI
 
 📊 Dashboard Preview 
-![Dashboard Screenshot](dashboard_sc.png)
+![Dashboard Screenshot](dashboard_screenshot.png)
